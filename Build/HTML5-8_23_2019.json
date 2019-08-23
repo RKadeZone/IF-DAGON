@@ -1,0 +1,16 @@
+{
+"companyName": "RKadeGamesLLC",
+"productName": "IF-Dagon",
+"productVersion": "1.5",
+"dataUrl": "HTML5-8_23_2019.data.unityweb",
+"wasmCodeUrl": "HTML5-8_23_2019.wasm.code.unityweb",
+"wasmFrameworkUrl": "HTML5-8_23_2019.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.8f1"
+}
